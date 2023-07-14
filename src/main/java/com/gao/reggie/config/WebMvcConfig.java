@@ -11,7 +11,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 
 import java.util.List;
 
-
+//WebMvcConfigurerAdapter
+//WebMvcConfigurationSupport
 @Slf4j
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurationSupport {
